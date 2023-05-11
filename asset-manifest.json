@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Ecommerce_reactjs/static/css/main.584852e4.css",
+    "main.js": "/Ecommerce_reactjs/static/js/main.1db1f612.js",
+    "static/js/787.cfd8f164.chunk.js": "/Ecommerce_reactjs/static/js/787.cfd8f164.chunk.js",
+    "static/media/pizzaLeft.jpg": "/Ecommerce_reactjs/static/media/pizzaLeft.24b07891fef1c8dae848.jpg",
+    "static/media/vegan.jpg": "/Ecommerce_reactjs/static/media/vegan.52cbfe9e6f8d75e18f8b.jpg",
+    "static/media/pizza.jpeg": "/Ecommerce_reactjs/static/media/pizza.21a1098fa87e28d80f37.jpeg",
+    "static/media/multiplePizzas.jpeg": "/Ecommerce_reactjs/static/media/multiplePizzas.490709e2113d96ca24a1.jpeg",
+    "static/media/pizzaLogo.png": "/Ecommerce_reactjs/static/media/pizzaLogo.fcdc67e6b331cba63735.png",
+    "static/media/expensive.jpg": "/Ecommerce_reactjs/static/media/expensive.6449ceefce083d18dfef.jpg",
+    "static/media/pepperoni.jpg": "/Ecommerce_reactjs/static/media/pepperoni.d173e5db8dacdf1324ed.jpg",
+    "static/media/pineapple.jpg": "/Ecommerce_reactjs/static/media/pineapple.a01ab9be389f0e6bd6ec.jpg",
+    "static/media/margherita.jpg": "/Ecommerce_reactjs/static/media/margherita.683bc9bb07f9ff0d82df.jpg",
+    "static/media/pedrotechspecial.jpg": "/Ecommerce_reactjs/static/media/pedrotechspecial.425951cb0e484775fd4c.jpg",
+    "index.html": "/Ecommerce_reactjs/index.html",
+    "main.584852e4.css.map": "/Ecommerce_reactjs/static/css/main.584852e4.css.map",
+    "main.1db1f612.js.map": "/Ecommerce_reactjs/static/js/main.1db1f612.js.map",
+    "787.cfd8f164.chunk.js.map": "/Ecommerce_reactjs/static/js/787.cfd8f164.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.584852e4.css",
+    "static/js/main.1db1f612.js"
+  ]
+}
